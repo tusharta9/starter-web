@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 ## New Updates for Humans.txt
 ## New updates for Rebase advance notes
+## Third notes add for rebase 
